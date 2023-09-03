@@ -17,12 +17,16 @@ This project is a simple implementation of an "add to cart" feature using React,
 ## Demo
 
 You can see a live demo of this project [here](https://add-to-cart-2023.netlify.app/).
+<br>
 
 ![image](https://github.com/anandkishorgupta/Add-to-Cart-using-redux-toolKit/assets/85511831/9e1d57be-ec22-4a1e-a054-2437b39912e4)
-
+<br>
+<br>
 
 ![image](https://github.com/anandkishorgupta/Add-to-Cart-using-redux-toolKit/assets/85511831/fed88fbc-7c84-4c3e-8b49-2718a37a9131)
+<br>
 
+<br>
 
 ![image](https://github.com/anandkishorgupta/Add-to-Cart-using-redux-toolKit/assets/85511831/9e0beb0f-9c36-4f95-8740-bc6d4d7103f3)
 
